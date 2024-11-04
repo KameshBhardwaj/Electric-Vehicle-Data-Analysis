@@ -49,3 +49,9 @@ You can explore the full interactive dashboard on [Tableau Public](https://publi
 If you would like to view or interact with the dashboard:
 1. Visit the [Tableau Public link](https://public.tableau.com/views/EVProject_17300412489130/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 2. Use filters for CAFV Eligibility, EV Type, Make, Model, and State to customize your view.
+
+### Contact
+Feel free to reach out if you have any questions or would like to discuss further insights on Electric Vehicle trends and data analysis.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kamesh-bhardwaj-270005321/).
+
